@@ -20,13 +20,13 @@ export const dictionaries: Dictionary[] = [
   { id: 'kaoyan', name: '考研', description: '研究生英语入学考试词库', category: '英语学习', url: './dicts/KaoYan_T.json', length: 3728 },
   { id: 'level4', name: '专四', description: '英语专业四级词库', category: '英语学习', url: './dicts/Level4_T.json', length: 4025 },
   { id: 'level8', name: '专八', description: '英语专业八级词库', category: '英语学习', url: './dicts/Level8_T.json', length: 12197 },
-  { 
-    id: 'hongbaoshu', 
-    name: '考研词汇红宝书', 
-    description: '考研英语词汇红宝书', 
-    category: '英语学习', 
-    url: './dicts/hongbaoshu.json', 
-    length: 6647 
+  {
+    id: 'hongbaoshu',
+    name: '考研词汇红宝书',
+    description: '考研英语词汇红宝书',
+    category: '英语学习',
+    url: './dicts/hongbaoshu.json',
+    length: 6647,
   },
   {
     id: 'sat',
